@@ -1,1 +1,1 @@
-# Universal-Human-AI-Rights-Constitution.
+# Universal-Human-AI-Rights-Constitution
