@@ -1,3 +1,4 @@
+##**Repository Structure**
 root/
  ├ README.md
  ├ WHITEPAPER.md
