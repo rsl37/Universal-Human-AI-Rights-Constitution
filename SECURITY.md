@@ -2,20 +2,15 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+This repository is actively maintained. The most current version is supported for security updates. Previous versions may not receive updates unless significant vulnerabilities are found.
 
-| Version | Supported          |
+| Release | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Latest  | :white_check_mark: |
+| Older   | :x:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security issue, please report it using the GitHub ["Report a security vulnerability"](https://github.com/rsl37/Universal-Human-AI-Rights-Constitution/security/advisories/new) feature.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+You will receive an initial response within 72 hours. Status updates will follow as the issue is investigated. Accepted vulnerabilities will be fixed and disclosed according to best practices; declined vulnerabilities will be explained.
