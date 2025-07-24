@@ -2,15 +2,25 @@
 
 ## Supported Versions
 
-This repository is actively maintained. The most current version is supported for security updates. Previous versions may not receive updates unless significant vulnerabilities are found.
+The Universal-Human-AI-Rights-Constitution is in its first draft stage. Only the latest draft is actively maintained for feedback and refinement.
 
-| Release | Supported          |
-| ------- | ------------------ |
-| Latest  | :white_check_mark: |
-| Older   | :x:                |
+| Version/Stage | Supported          |
+| ------------- | ------------------ |
+| Draft (main)  | :white_check_mark: |
+| Older drafts  | :x:                |
+
+## License & Principles
+
+- Licensed under [CC BY-SA 4.0](LICENSE)
+- No warranty; provided as-is for research, discussion, and development.
+- All contributions and uses must respect attribution and ShareAlike terms.
 
 ## Reporting a Vulnerability
 
-If you discover a security issue, please report it using the GitHub ["Report a security vulnerability"](https://github.com/rsl37/Universal-Human-AI-Rights-Constitution/security/advisories/new) feature.
+If you identify an ethical or technical vulnerability (e.g., security risks in implementation guidelines or documentation):
+- Email [roselleroberts@pm.me](mailto:roselleroberts@pm.me) or open a confidential GitHub issue.
+- Expect a response within 5 business days.
+- The maintainers will review, address, and update the document as needed.
+- Feedback is especially welcome during the draft/community review phase.
 
-You will receive an initial response within 72 hours. Status updates will follow as the issue is investigated. Accepted vulnerabilities will be fixed and disclosed according to best practices; declined vulnerabilities will be explained.
+See [README.md](README.md) and [WHITEPAPER.md](WHITEPAPER.md) for more details.
